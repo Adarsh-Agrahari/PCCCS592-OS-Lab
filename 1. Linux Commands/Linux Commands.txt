@@ -1,0 +1,23 @@
+Linux Commands List ~
+- pwd
+- ls
+- mkdir
+- rm
+- cd
+- cat
+- rmdir
+- cp
+- mv
+- uname
+- locate
+- touch
+- ln
+- clear
+- ps
+- man
+- grep
+- echo
+- wget
+- whoami
+- sort
+- cal
