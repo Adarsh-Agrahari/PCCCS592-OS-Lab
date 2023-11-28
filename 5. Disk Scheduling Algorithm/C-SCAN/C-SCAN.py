@@ -7,7 +7,7 @@ for i in range(n):
     r.append(t)
 ds = int(input("Enter disk size: "))
 c = int(input("Enter current head position: "))
-d = input("Enter direction (L-left, R=right): ")
+d = input("Enter direction (L-left, R-right): ")
 
 # Input 1 ---------------------------
 # n = 7
